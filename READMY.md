@@ -3,7 +3,7 @@ Welcome to the GitHub repository for the Tea Store website project.
 
 ## Overview 
 
-This project is a comprehensive tea store website showcasing a wide selection of high-quality teas from around the world. It features collections of various tea types, client testimonials, a tea blog, and detailed information about the store's values and services.
+This project is a comprehensive tea store website showcasing a wide selection of high-quality teas from around the world. It features collections of various tea types, client testimonials, a tea blog, and detailed information about the store's values and services.The website was designed and built using modern web technologies, including HTML, CSS and JavaScript, which allowed for a responsive and aesthetic appearance and dynamic functionality.
 
 ## Technologies Used 
 
