@@ -11,12 +11,10 @@ This project is a comprehensive tea store website showcasing a wide selection of
 - **CSS**: Styling, layout, and responsive design.
 - **JavaScript**: Interactive features and dynamic content.
 
-## Features
-
-- **Product Listings**: Detailed descriptions and images of different tea types.
-- **Client Testimonials**: Reviews and feedback from satisfied customers.
-- **Tea Blog**: Articles about tea culture, health benefits, and more.
-- **Subscription Form**: Sign up for the latest news and promotions.
+## Functions
+- **Responsive design**: The website adapts to various screen sizes.
+- **Interactive elements**: Using JavaScript to add dynamic features.
+- **Aesthetic appearance**: Careful use of CSS to create an attractive appearance.
 
 ## How to View
 
