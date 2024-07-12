@@ -1,5 +1,5 @@
 # Project 2 - Tea Store Website
-Welcome to the GitHub repository for the Tea Store website project.
+Welcome to the project 5 repository! This project is a website for the Tea Store.
 
 ## Overview 
 
