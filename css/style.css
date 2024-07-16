@@ -711,6 +711,9 @@ gap: 0 20px;
         margin-left: 33px;
         max-width: 200px;
 }
+    .footer__contacts-title, .footer__contacts-text, footer___nav{
+        max-width: 200px;
+    }
 }
 @media (max-width: 480px){
   .logo{
