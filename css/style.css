@@ -540,7 +540,8 @@ gap: 0 20px;
         padding: 120px 0;
     }
     .prioritise__list{
-        gap: 30px 210px;
+        gap: 31px;
+
     }
     .footer__blockquote{
         width: 270px;
@@ -658,7 +659,7 @@ gap: 0 20px;
         flex-basis: 640px;
     }
     .prioritise__list{
-        gap: 30px 133px  ;
+        gap: 10px;
     }
     .footer__inner{
         grid-auto-rows: 1fr 1fr;
@@ -751,6 +752,9 @@ gap: 0 20px;
 }
 .prioritise{
     padding: 60px 0;
+}
+.prioritise__list{
+    display: grid;
 }
 .footer__inner{
     display: flex;
