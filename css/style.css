@@ -701,6 +701,16 @@ gap: 0 20px;
      .main-blog__item::nth-child(even){
         margin-left: 0;
     }
+     .footer__blockquoete{
+         max-width: 200px;
+     }
+    .footer__nav-contacts {
+         max-width: 200px;
+    }
+    .footer__social {
+        margin-left: 33px;
+        max-width: 200px;
+}
 }
 @media (max-width: 480px){
   .logo{
@@ -746,6 +756,9 @@ gap: 0 20px;
 .mailing-list__email{
     width: 324px;
     margin-right: 120px;
+}
+    .mailing-list__form {
+    max-width: 326px;
 }
 .mailing-list__btn{
     padding: 10px 39px;
@@ -804,7 +817,7 @@ gap: 0 20px;
     padding: 50px 0 10px;
 }
    }
-@media (max-width: 360px){
+@media (max-width: 390px){
     .title{
         margin-bottom: 30px;
         font-size: 24px;
